@@ -2,7 +2,7 @@
 
 Part of growing as a programmer is to practice, practice, practice. Throughout this course, there will be daily Code Wars challenges.
 
-The daily challenge will be posted at 4:00 p.m. every day and will be due by the following day at 1:59 p.m. Plan to focus on this task every day after class between 5 p.m. and 6 p.m.
+The daily challenge will be posted at 5:00 p.m. every day and will be due by the following day at 1:59 p.m. Plan to focus on this task every day after class between 5 p.m. and 6 p.m.
 
 Friday assignments should be completed independently (or with classmates if you plan to meet up) over the weekend and submitted by 1:59 p.m. on Monday.
 
@@ -10,7 +10,7 @@ Friday assignments should be completed independently (or with classmates if you 
 
 With the exception of Monday morning, you will be working with a new partner every day for whiteboarding. This will also be your partner for the paired lab.
 
-Between 4:00 p.m. and 5:00 p.m. each day, get together with your partner and read through the daily challenge. There are several items to accomplish, as time allows:
+Between 5:00 p.m. and 6:00 p.m. each day, get together with your partner and read through the daily challenge. There are several items to accomplish, as time allows:
   - Read through the challenge and make sure everyone understands what is being asked.
   - Pseudocode your solution on the whiteboard. You can each take turns in this process, or select one person to do all the writing, but each team member **must** participate in the discussion. Pseudocode can be described as writing out your plan in human-readable form. For example, `set up a counter` or `multiply each value by 2`.
   - You should **not** be writing any actual code, only referencing Code Wars for the problem domain.
@@ -43,4 +43,3 @@ Each folder should have the name of the challenge. Within each folder, you shoul
   - A README.md which includes the problem domain from Code Wars and a link to the challenge
 1. Make a pull request from your working branch to your master branch.
 1. Submit a link to your PR on Canvas.
-
