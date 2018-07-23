@@ -26,6 +26,11 @@
   text-transform: uppercase;
 }
 
+article, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
+
 nav ul {
   float: right;
 }
